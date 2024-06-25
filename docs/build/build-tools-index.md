@@ -87,6 +87,8 @@ or the [Wallets](../general/wallets-and-extensions.md) page on the Wiki for deta
   dependency versions.
 - [Polkadot Launch](https://github.com/shawntabrizi/polkadot-launch) - A tool to easily launch
   custom local parachain-enabled Polkadot versions.
+- [Zombienet](https://github.com/paritytech/zombienet) - A tool to easily spawn ephemeral networks
+  and perform tests against them.
 - [Halva](https://github.com/halva-suite/halva) - A Truffle-inspired local development environment
   for Substrate.
 - [Fork-off Substrate](https://github.com/maxsam4/fork-off-substrate) - Copies the state of an
